@@ -1,3 +1,7 @@
+---
+title: "my-first-blog-post"
+date: 2020-06-20
+---
 # Hello,
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultrices fringilla erat, eu fermentum tortor vehicula nec. Ut in efficitur enim. Aliquam tincidunt sollicitudin lectus, a pharetra mauris auctor a. Proin sed facilisis elit, ut finibus lorem. Integer tempus interdum arcu eu malesuada. Suspendisse rutrum lorem id porttitor suscipit. Nulla sit amet diam ut libero commodo tristique. Vestibulum maximus consequat diam sit amet elementum. Proin maximus nunc vel mollis iaculis. Praesent ac ipsum nec purus luctus aliquet in nec magna. Suspendisse ac imperdiet odio, viverra luctus quam. Proin dictum, lacus sit amet ultrices hendrerit, enim turpis maximus magna, vitae consectetur orci orci sit amet sem. Morbi at urna in neque hendrerit elementum.</p>
